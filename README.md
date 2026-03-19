@@ -4,4 +4,4 @@ Comptuer Engineer with strong foundations in problem-solving, systems thinking, 
 
 ## Resume
 
-![resume](/resume_2025.png)
+![resume](/resume_2026.png)
